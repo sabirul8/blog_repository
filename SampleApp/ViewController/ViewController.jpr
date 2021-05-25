@@ -233,8 +233,8 @@
       </list>
    </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
-      <value n="j2eeWebAppName" v="SampleApp-ViewController-webapp"/>
-      <value n="j2eeWebContextRoot" v="SampleApp-ViewController-context-root"/>
+      <value n="j2eeWebAppName" v="SampleApp"/>
+      <value n="j2eeWebContextRoot" v="SampleApp"/>
    </hash>
    <hash n="oracle.jdeveloper.model.PathsConfiguration">
       <hash n="javaContentSet">
